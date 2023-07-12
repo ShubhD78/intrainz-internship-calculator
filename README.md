@@ -55,7 +55,7 @@ Click the "Calculate" button to see the result.
 
 Live on Netlify
 
-Link : https://calculator-byshree.netlify.app/
+Link : https://scientific-calcy-by-shree.netlify.app/
 
 # How to use functions
   First enter the numbers and then use functions
