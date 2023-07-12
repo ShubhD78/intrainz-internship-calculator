@@ -45,16 +45,13 @@ JavaScript: For implementing the calculator functionality.
 
 
 # Installation
-Clone the repository: git clone https://github.com/shrishail7/Intrainz-Internship-calculator.git
+Clone the repository: https://github.com/ShubhD78/intrainz-internship-calculator.git
 Open index.html in your web browser.
 Usage
 Enter the first number in the input field.
 Select the desired operation from the dropdown menu.
 Enter the second number in the input field.
 Click the "Calculate" button to see the result.
-
-Demo
-A live demo of the calculator website can be found at https://shrishail7.github.io/Intrainz-Internship-calculator/
 
 Live on Netlify
 
